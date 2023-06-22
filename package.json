@@ -1,0 +1,28 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "shashank",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "modules": "^0.4.0",
+    "node": "^15.0.1",
+    "nodemon": "^2.0.6",
+    "puppeteer": "^5.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshashank99/ProxyServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kshashank99/ProxyServer/issues"
+  },
+  "homepage": "https://github.com/Kshashank99/ProxyServer#readme"
+}
